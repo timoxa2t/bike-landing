@@ -1,6 +1,6 @@
 <div>
   <h1>Bike Landing</h1>
-![image](https://user-images.githubusercontent.com/11507341/234226449-72ec88a4-4c10-455a-bd58-c47e025fe700.png)
+<img src="https://user-images.githubusercontent.com/11507341/234226449-72ec88a4-4c10-455a-bd58-c47e025fe700.png"/>
 <p>This is a simple bike landing page developed by <a href="https://github.com/timoxa2t" target="_new">timoxa2t</a>.</p>
 <h2>Technologies Used</h2><p>This landing page is developed using the following technologies:</p><ul><li>HTML5</li><li>CSS3</li><li>JavaScript</li><li>Font Awesome Icons</li><li>Google Fonts</li></ul>
 <h2>Features</h2><p>This landing page includes the following features:</p><ul><li>Responsive design for mobile and desktop</li><li>Hero section with background image and call-to-action button</li><li>Services section with icons and descriptions</li><li>Featured bikes section with images, prices, and descriptions</li><li>Testimonials section with customer reviews</li><li>Newsletter section with subscription form</li></ul><h2>Live Demo</h2><p>A live demo of this landing page is available <a href="https://timoxa2t.github.io/bike-landing/" target="_new">here</a>.</p>
